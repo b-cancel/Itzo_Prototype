@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 2ee145de4ea6678499576fc5f174de2a
+timeCreated: 1525035733
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: .B FOREARM
+    100002: .B HAND
+    100004: .B HAND_end
+    100006: .B OUTTER THUMB
+    100008: .B OUTTER THUMB_end
+    100010: .B UPPER ARM
+    100012: .B UPPER THUMB
+    100014: .L CLAW BOTTOM
+    100016: .L CLAW BOTTOM_end
+    100018: .L CLAW HAND
+    100020: .L CLAW SNAPPER UPPER
+    100022: .L FOREARM
+    100024: .L LOWER SHOULDER
+    100026: .L OUTTER CLAW
+    100028: .L OUTTER CLAW_end
+    100030: .L OUTTER SHOULDER
+    100032: .L OUTTER SHOULDER_end
+    100034: .L UPPER ARM
+    100036: .L UPPER SHOULDER
+    100038: .R FOREARM
+    100040: .R HAND
+    100042: .R SHOULDER
+    100044: .R THUMB OUTTER
+    100046: .R THUMB OUTTER_end
+    100048: .R THUMB UPPER
+    100050: .R UPPER ARM
+    100052: BACK NECK
+    100054: BACK SLIME
+    100056: BACK SLIME_end
+    100058: FRONT SLIME
+    100060: HEAD
+    100062: HEAD_end
+    100064: IK ELBOW .B
+    100066: IK ELBOW .B_end
+    100068: IK ELBOW .L
+    100070: IK ELBOW .L_end
+    100072: IK ELBOW .R
+    100074: IK ELBOW .R_end
+    100076: IK WRIST .B
+    100078: IK WRIST .B_end
+    100080: IK WRIST .L
+    100082: IK WRIST .L_end
+    100084: IK WRIST .R
+    100086: IK WRIST .R_end
+    100088: LOWER SPINE
+    100090: Mesh
+    100092: //RootNode
+    100094: 'NECK '
+    100096: Rig
+    100098: UPPER SPINE
+    400000: .B FOREARM
+    400002: .B HAND
+    400004: .B HAND_end
+    400006: .B OUTTER THUMB
+    400008: .B OUTTER THUMB_end
+    400010: .B UPPER ARM
+    400012: .B UPPER THUMB
+    400014: .L CLAW BOTTOM
+    400016: .L CLAW BOTTOM_end
+    400018: .L CLAW HAND
+    400020: .L CLAW SNAPPER UPPER
+    400022: .L FOREARM
+    400024: .L LOWER SHOULDER
+    400026: .L OUTTER CLAW
+    400028: .L OUTTER CLAW_end
+    400030: .L OUTTER SHOULDER
+    400032: .L OUTTER SHOULDER_end
+    400034: .L UPPER ARM
+    400036: .L UPPER SHOULDER
+    400038: .R FOREARM
+    400040: .R HAND
+    400042: .R SHOULDER
+    400044: .R THUMB OUTTER
+    400046: .R THUMB OUTTER_end
+    400048: .R THUMB UPPER
+    400050: .R UPPER ARM
+    400052: BACK NECK
+    400054: BACK SLIME
+    400056: BACK SLIME_end
+    400058: FRONT SLIME
+    400060: HEAD
+    400062: HEAD_end
+    400064: IK ELBOW .B
+    400066: IK ELBOW .B_end
+    400068: IK ELBOW .L
+    400070: IK ELBOW .L_end
+    400072: IK ELBOW .R
+    400074: IK ELBOW .R_end
+    400076: IK WRIST .B
+    400078: IK WRIST .B_end
+    400080: IK WRIST .L
+    400082: IK WRIST .L_end
+    400084: IK WRIST .R
+    400086: IK WRIST .R_end
+    400088: LOWER SPINE
+    400090: Mesh
+    400092: //RootNode
+    400094: 'NECK '
+    400096: Rig
+    400098: UPPER SPINE
+    2100000: No Name
+    4300000: Mesh
+    7400000: Rig|CHASING TARGET
+    7400002: Rig|LOOKING FOR A SOUND
+    7400004: Rig|WALKING NO TARGET
+    9500000: //RootNode
+    13700000: Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rig|CHASING TARGET
+      takeName: Rig|CHASING TARGET
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rig|LOOKING FOR A SOUND
+      takeName: Rig|LOOKING FOR A SOUND
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rig|WALKING NO TARGET
+      takeName: Rig|WALKING NO TARGET
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

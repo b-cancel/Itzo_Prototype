@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: 3fd956f4ef37ead49a99838bf5302cc7
+timeCreated: 1525035734
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bottom Arm .L.001
+    100004: Bottom Arm .L.001_end
+    100006: Bottom Arm .L.003
+    100008: Bottom Arm .R.002
+    100010: Bottom Arm .R.003
+    100012: Bottom Arm .R.003_end
+    100014: Bottom Leg .L.003
+    100016: Bottom Leg .R.002
+    100018: flashlightBone
+    100020: flashlightBone_end
+    100022: flashlightBones
+    100024: flashlightMesh
+    100026: Foot Bottom .L.003
+    100028: Foot Bottom .L.003_end
+    100030: Foot Bottom .R.002
+    100032: Foot Bottom .R.002_end
+    100034: Foot Top .L.003
+    100036: Foot Top .R.002
+    100038: Hand .L.003
+    100040: Hand .R.002
+    100042: Head
+    100044: Head_end
+    100046: Heel L..002
+    100048: Heel L..002_end
+    100050: Heel L..003
+    100052: Heel L..003_end
+    100054: IK Ankle .L.003
+    100056: IK Ankle .R.002
+    100058: IK Elbo .L.003
+    100060: IK Elbo .L.003_end
+    100062: IK Elbo .R.002
+    100064: IK Elbo .R.002_end
+    100066: IK Knee .L.003
+    100068: IK Knee .L.003_end
+    100070: IK Knee .R.002
+    100072: IK Knee .R.002_end
+    100074: IK Wrist .L.003
+    100076: IK Wrist .L.003_end
+    100078: IK Wrist .R.002
+    100080: IK Wrist .R.002_end
+    100082: Index Bottom .L.003
+    100084: Index Bottom .L.003_end
+    100086: Index Bottom .R.002
+    100088: Index Bottom .R.002_end
+    100090: Index Top .L.003
+    100092: Index Top .R.002
+    100094: Mesh
+    100096: Middle Finger Bottom .L.003
+    100098: Middle Finger Bottom .L.003_end
+    100100: Middle Finger Bottom .R.002
+    100102: Middle Finger Bottom .R.002_end
+    100104: Middle Finger Top .L.003
+    100106: Middle Finger Top .R.002
+    100108: Neck
+    100110: //RootNode
+    100112: Pinky Finger Bottom .L.003
+    100114: Pinky Finger Bottom .L.003_end
+    100116: Pinky Finger Bottom .R.002
+    100118: Pinky Finger Bottom .R.002_end
+    100120: Pinky Finger Top .L.003
+    100122: Pinky Finger Top .R.002
+    100124: Ring Finger Bottom .L.003
+    100126: Ring Finger Bottom .L.003_end
+    100128: Ring Finger Bottom .R.002
+    100130: Ring Finger Bottom .R.002_end
+    100132: Ring Finger Top .L.003
+    100134: Ring Finger Top .R.002
+    100136: rootBone
+    100138: Spine
+    100140: Spine middle
+    100142: Thumb  top .L.003
+    100144: Thumb  top .R.002
+    100146: Thumb Bottom .L.003
+    100148: Thumb Bottom .L.003_end
+    100150: Thumb Bottom .R.002
+    100152: Thumb Bottom .R.002_end
+    100154: Thumb middle .L.003
+    100156: Thumb middle .R.002
+    100158: Top Arm .L.003
+    100160: Top Arm .R.002
+    100162: Top Leg .L.003
+    100164: Top Leg .R.002
+    400000: Armature
+    400002: Bottom Arm .L.001
+    400004: Bottom Arm .L.001_end
+    400006: Bottom Arm .L.003
+    400008: Bottom Arm .R.002
+    400010: Bottom Arm .R.003
+    400012: Bottom Arm .R.003_end
+    400014: Bottom Leg .L.003
+    400016: Bottom Leg .R.002
+    400018: flashlightBone
+    400020: flashlightBone_end
+    400022: flashlightBones
+    400024: flashlightMesh
+    400026: Foot Bottom .L.003
+    400028: Foot Bottom .L.003_end
+    400030: Foot Bottom .R.002
+    400032: Foot Bottom .R.002_end
+    400034: Foot Top .L.003
+    400036: Foot Top .R.002
+    400038: Hand .L.003
+    400040: Hand .R.002
+    400042: Head
+    400044: Head_end
+    400046: Heel L..002
+    400048: Heel L..002_end
+    400050: Heel L..003
+    400052: Heel L..003_end
+    400054: IK Ankle .L.003
+    400056: IK Ankle .R.002
+    400058: IK Elbo .L.003
+    400060: IK Elbo .L.003_end
+    400062: IK Elbo .R.002
+    400064: IK Elbo .R.002_end
+    400066: IK Knee .L.003
+    400068: IK Knee .L.003_end
+    400070: IK Knee .R.002
+    400072: IK Knee .R.002_end
+    400074: IK Wrist .L.003
+    400076: IK Wrist .L.003_end
+    400078: IK Wrist .R.002
+    400080: IK Wrist .R.002_end
+    400082: Index Bottom .L.003
+    400084: Index Bottom .L.003_end
+    400086: Index Bottom .R.002
+    400088: Index Bottom .R.002_end
+    400090: Index Top .L.003
+    400092: Index Top .R.002
+    400094: Mesh
+    400096: Middle Finger Bottom .L.003
+    400098: Middle Finger Bottom .L.003_end
+    400100: Middle Finger Bottom .R.002
+    400102: Middle Finger Bottom .R.002_end
+    400104: Middle Finger Top .L.003
+    400106: Middle Finger Top .R.002
+    400108: Neck
+    400110: //RootNode
+    400112: Pinky Finger Bottom .L.003
+    400114: Pinky Finger Bottom .L.003_end
+    400116: Pinky Finger Bottom .R.002
+    400118: Pinky Finger Bottom .R.002_end
+    400120: Pinky Finger Top .L.003
+    400122: Pinky Finger Top .R.002
+    400124: Ring Finger Bottom .L.003
+    400126: Ring Finger Bottom .L.003_end
+    400128: Ring Finger Bottom .R.002
+    400130: Ring Finger Bottom .R.002_end
+    400132: Ring Finger Top .L.003
+    400134: Ring Finger Top .R.002
+    400136: rootBone
+    400138: Spine
+    400140: Spine middle
+    400142: Thumb  top .L.003
+    400144: Thumb  top .R.002
+    400146: Thumb Bottom .L.003
+    400148: Thumb Bottom .L.003_end
+    400150: Thumb Bottom .R.002
+    400152: Thumb Bottom .R.002_end
+    400154: Thumb middle .L.003
+    400156: Thumb middle .R.002
+    400158: Top Arm .L.003
+    400160: Top Arm .R.002
+    400162: Top Leg .L.003
+    400164: Top Leg .R.002
+    2100000: No Name
+    2300000: flashlightMesh
+    3300000: flashlightMesh
+    4300000: flashlightMesh
+    4300002: Mesh
+    7400000: Armature|death
+    7400002: Armature|flippingSwitch
+    7400004: Armature|IDLE A
+    7400006: Armature|IDLE B
+    7400008: Armature|IDLE C
+    7400010: Armature|IDLE D
+    7400012: Armature|takingDamage A
+    7400014: Armature|takingDamage B
+    7400016: "Armature|\u2022RUN DONE"
+    7400018: "Armature|\u2022WALK DONE"
+    7400020: flashlightBones|flashlightBonesAction
+    9500000: //RootNode
+    13700000: Mesh
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|death
+      takeName: Armature|death
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|flippingSwitch
+      takeName: Armature|flippingSwitch
+      firstFrame: 0
+      lastFrame: 53
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|IDLE A
+      takeName: Armature|IDLE A
+      firstFrame: 0
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|IDLE B
+      takeName: Armature|IDLE B
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|IDLE C
+      takeName: Armature|IDLE C
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|IDLE D
+      takeName: Armature|IDLE D
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|takingDamage A
+      takeName: Armature|takingDamage A
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|takingDamage B
+      takeName: Armature|takingDamage B
+      firstFrame: 0
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u2022RUN DONE"
+      takeName: "Armature|\u2022RUN DONE"
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: "Armature|\u2022WALK DONE"
+      takeName: "Armature|\u2022WALK DONE"
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: flashlightBones|flashlightBonesAction
+      takeName: flashlightBones|flashlightBonesAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
