@@ -3,7 +3,7 @@ Created for a Game Development Course.
 
 NOTE: Unfortunately the Unity Web GL Player Doesnt always work, and the game is nearly unplayable because we ran out of time to refine and improve the AI
 
-<h4>Primary Goal:</h4> <h5>Create a game with immersive UI</h5>
+<h4>Primary Goal:</h4> <h3>Create a game with immersive UI</h3>
 
 <h5>Features Implemented</h5>
 <ul>
