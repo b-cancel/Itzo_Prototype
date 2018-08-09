@@ -1,7 +1,9 @@
 # Itzo_Prototype
 Created for a Game Development Course. 
 
-NOTE: Unfortunately the Unity Web GL Player Doesnt always work, and the game is nearly unplayable because we ran out of time to refine and improve the AI
+NOTE: The game is nearly unplayable because we ran out of time to refine and improve the AI
+<br>
+NOTE 2: Although the Web Version of the game might not run (Because of its memory requirements), if you download the zip it includes a runnable executable
 
 <h4>Primary Goal:</h4> <h3>Create a game with immersive UI</h3>
 
