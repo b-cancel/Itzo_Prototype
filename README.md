@@ -13,7 +13,7 @@ NOTE: Unfortunately the Unity Web GL Player Doesnt always work, and the game is 
   <li>immersive map that still allows for monsters to be hidden in the darkness</li>
   <li>immersive potental health loss or gain (communicated through sound driven light flickering)</li>
   <li>immersive monster behavior (sounds for transitioning between wander, chase sound, and chase sight... and sounds for exisiting within each of those states)</li>
-  <li>immersive goal indicator [compass] (flashlight gets brighter and buzzes louder when facing the goal)
+  <li>immersive goal indicator [compass] (flashlight gets brighter and buzzes louder when facing the goal)</li>
 </ul>
 
 <h5>Features Left To Implement</h5>
