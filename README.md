@@ -3,6 +3,8 @@ Created for a Game Development Course.
 <br>
 <a href="https://b-cancel.github.io/Itzo_Prototype/">Link to Live Demo</a>
 <br>
+NOTE: the game is not optimize and heavy and therefore might not work in the browser
+<br>
 
 <b>FLIP THE GREEN SWITCH TO BEGIN THE GAME</b>
 <br>
