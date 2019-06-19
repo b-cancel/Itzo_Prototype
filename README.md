@@ -1,5 +1,8 @@
 # Itzo_Prototype
 Created for a Game Development Course. 
+<br>
+<a href="https://b-cancel.github.io/Itzo_Prototype/">Link to Live Demo</a>
+<br>
 
 <b>FLIP THE GREEN SWITCH TO BEGIN THE GAME</b>
 <br>
