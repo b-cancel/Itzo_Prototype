@@ -7,11 +7,11 @@ NOTE: the game is not optimize and heavy and therefore might not work in the bro
 <br>
 <a href="https://drive.google.com/file/d/1XOxjQ7VPIhJ2Ofg3Vhkz_G_MtLAhRTjv/view?usp=sharing">Link To Video Demo</a>
 <br>
-<img src="https://drive.google.com/uc?export=download&id=1IFrCOnijCU4MkNOYPaHCHWt02GU825jJ"/>
+<img src="https://imgur.com/TTk5zcH.jpg"/>
 <br>
-<img src="https://drive.google.com/uc?export=download&id=1WrcYkV9Q5Eu9QKHaBMPqHW5x1hLzVRyB"/>
+<img src="https://imgur.com/NCIp2z1.jpg"/>
 <br>
-<img src="https://drive.google.com/uc?export=download&id=1MF0oo9KTKwq_jNNF9HHCW84Rn29xhGmg"/>
+<img src="https://imgur.com/Xus8ekS.jpg"/>
 <br>
 
 <b>FLIP THE GREEN SWITCH TO BEGIN THE GAME</b>
